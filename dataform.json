@@ -1,7 +1,0 @@
-{
-  "defaultSchema": "dataform2",
-  "assertionSchema": "dataform_assertions",
-  "warehouse": "bigquery",
-  "defaultDatabase": "dt-miles-sandbox-dev",
-  "defaultLocation": "EU"
-}

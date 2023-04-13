@@ -14,4 +14,5 @@ config {
 -- The rest of a SQLX file contains your SELECT statement used to create the table.
 -- test update
 
-SELECT 3 as test1
+SELECT 2 as test1
+
